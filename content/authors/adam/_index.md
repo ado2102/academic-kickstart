@@ -14,8 +14,7 @@ role: PhD Candidate, Attorney
 
 # Organizations/Affiliations
 organizations:
-- name: Energy and Resources Group 
-at the University of California, Berkeley
+- name: U.C. Berkeley Energy & Resources Group
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
