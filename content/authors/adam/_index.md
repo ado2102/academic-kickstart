@@ -29,15 +29,16 @@ interests:
 
 education:
   courses:
+  - course: Juris Doctor
+    institution: Columbia University School of Law
+    year: 2006
   - course: Master of Public Policy
     institution: U.C. Berkeley Goldman School of Public Policy
     year: 2018
   - course: M.A., Energy & Resources
     institution: U.C. Berkeley Energy & Resources Group
     year: 2018
-  - course: Juris Doctor
-    institution: Columbia University School of Law
-    year: 2006
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,6 +68,7 @@ user_groups:
 - Visitors
 ---
 
-Adam Orford is a Ph.D. candidate at U.C. Berkeley's Energy & Resources Group (ERG). His research interests include national and international environmental governance and politics, public policy analysis and development, public administration and management, and ethical philosophy. He is currently focused on understanding the development of anti-environmentalist countermovements in the United States. 
+Adam Orford is a Ph.D. candidate at U.C. Berkeley's Energy & Resources Group (ERG). He is currently focused on understanding the early development of conservative anti-environmental politics in the United States, with a 
+focus on legislative developments during the 1940s, 1950s, and early 1960s. His dissertation is titled: The Creation of Enemies: Conservatives and the Environment in U.S. Society, 1940-1980
 
-Adam received his MPP from U.C. Berkeley's Goldman School of Public Policy in 2018. As an attorney prior to returning to academia, Adam represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. He received his B.A. from Arizona State University, and his J.D. from Columbia University School of Law, where he was the Editor-in-Chief of the Columbia Journal of Environmental Law. 
+As an attorney prior to returning to academia, Adam represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. He received his B.A. from Arizona State University, and his J.D. from Columbia University School of Law, where he was the Editor-in-Chief of the Columbia Journal of Environmental Law. 
