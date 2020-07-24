@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D., Energy &Resources
+  - course: Ph.D., Energy & Resources
     institution: U.C. Berkeley Energy & Resources Group
     year: 2021
   - course: Master of Public Policy
