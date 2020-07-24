@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*Georgetown Environmental Law Review*"
-url_pdf: "https://heinonline.org/HOL/P?h=hein.journals/gintenlr32&i=233"
+url_pdf: ""
 ---
 
