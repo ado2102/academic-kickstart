@@ -17,8 +17,6 @@ organizations:
 - name: |
     Energy & Resources Group \n University of California, Berkeley
 
-  url:""
-
 # Short bio (displayed in user profile at end of posts)
 bio: PhD Candidate, U.C. Berkeley Energy & Resources Group
 
