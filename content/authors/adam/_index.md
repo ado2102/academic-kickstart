@@ -18,13 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate at U.C. Berkeley's Energy & Resources Group (ERG). My research interests include national and international environmental governance and politics, public policy analysis and development, public administration and management, and ethical philosophy. I am currently focused on understanding the development of anti-environmentalist countermovements. In addition to my studies, I work in various graduate-level capacities, including in teaching roles and research positions. I am also active in graduate student government. I received my MPP from Berkeley's Goldman School of Public Policy (GSPP) in 2018, concurrent with an MA from the Energy & Resources Group. As an attorney prior to returning to academia, I rep­re­sented pub­lic and pri­vate clients in com­plex envi­ron­men­tal civil lit­i­ga­tion and reg­u­la­tory mat­ters; con­ducted both trial and appel­late lit­i­ga­tion in fed­eral and state courts across the coun­try; and assisted with the envi­ron­men­tal review and com­pli­ance aspects of numer­ous cor­po­rate trans­ac­tions. I received my B.A. from Ari­zona State Uni­versity, and my J.D. from Colum­bia Uni­ver­sity School of Law, where I was the Editor-in-Chief of the Colum­bia Jour­nal of Envi­ron­men­tal Law. 
+bio: PhD Candidate, U.C. Berkeley Energy & Resources Group
 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Environmental Law and Policy
+- U.S. Political and Social History 
+- Environmental Regulation and Administration
+- Environmental Ethics
 
 education:
   courses:
@@ -71,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Adam Orford is a Ph.D. candidate at U.C. Berkeley's Energy & Resources Group (ERG). His research interests include national and international environmental governance and politics, public policy analysis and development, public administration and management, and ethical philosophy. He is currently focused on understanding the development of anti-environmentalist countermovements in the United States. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Adam received his MPP from U.C. Berkeley's Goldman School of Public Policy in 2018. As an attorney prior to returning to academia, Adam represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. He received his B.A. from Arizona State University, and his J.D. from Columbia University School of Law, where he was the Editor-in-Chief of the Columbia Journal of Environmental Law. 
