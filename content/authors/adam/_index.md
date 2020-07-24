@@ -23,8 +23,8 @@ bio: PhD Candidate, U.C. Berkeley Energy & Resources Group
 
 interests:
 - Environmental Law and Policy
-- U.S. Political and Social History 
-- Environmental Regulation and Administration
+- U.S. Political  History 
+- Environmental Regulation
 - Environmental Ethics
 
 education:
