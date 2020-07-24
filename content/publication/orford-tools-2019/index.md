@@ -5,7 +5,7 @@ publishDate: 2020-07-24T22:58:58.329412Z
 authors: ["Adam D. Orford"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Georgetown Environmental Law Review*"
 url_pdf: "https://heinonline.org/HOL/P?h=hein.journals/gintenlr32&i=233"
 ---

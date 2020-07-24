@@ -5,7 +5,7 @@ publishDate: 2020-07-24T22:58:58.328415Z
 authors: ["Adam Orford"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Natural Gas & Electricity*"
 url_pdf: "http://doi.wiley.com/10.1002/gas.21687"
 doi: "10.1002/gas.21687"
