@@ -14,7 +14,8 @@ role: PhD Candidate, Attorney
 
 # Organizations/Affiliations
 organizations:
-- name: Energy and Resources Group at the University of California, Berkeley
+- name: Energy and Resources Group 
+at the University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,15 +30,19 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Public Policy
+    institution: U.C. Berkeley Goldman School of Public Policy
+    year: 2018
+  - course: M.A., Energy & Resources
+    institution: U.C. Berkeley Energy & Resources Group
+    year: 2018
+  - course: Juris Doctor
+    institution: Columbia University School of Law
+    year: 2006
+- course: B.A., Italian & Music
+    institution: Arizona State University
+    year: 2002
+	
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,16 +51,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: "mailto:adam.orford@berkeley.edu"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?hl=en&user=bQ0ubfEAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
