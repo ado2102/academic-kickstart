@@ -1,24 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Adam Orford
 
 # Username (this should match the folder name)
 authors:
-- admin
+- adam
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate, Attorney
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Energy and Resources Group at the University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D. candidate at U.C. Berkeley's Energy & Resources Group (ERG). My research interests include national and international environmental governance and politics, public policy analysis and development, public administration and management, and ethical philosophy. I am currently focused on understanding the development of anti-environmentalist countermovements.
+
+In addition to my studies, I work in various graduate-level capacities, including in teaching roles and research positions. I am also active in graduate student government.
+
+I received my MPP from Berkeley's Goldman School of Public Policy (GSPP) in 2018, concurrent with an MA from the Energy & Resources Group. As an attorney prior to returning to academia, I rep­re­sented pub­lic and pri­vate clients in com­plex envi­ron­men­tal civil lit­i­ga­tion and reg­u­la­tory mat­ters; con­ducted both trial and appel­late lit­i­ga­tion in fed­eral and state courts across the coun­try; and assisted with the envi­ron­men­tal review and com­pli­ance aspects of numer­ous cor­po­rate trans­ac­tions. I received my B.A. from Ari­zona State Uni­versity, and my J.D. from Colum­bia Uni­ver­sity School of Law, where I was the Editor-in-Chief of the Colum­bia Jour­nal of Envi­ron­men­tal Law. 
+
 
 interests:
 - Artificial Intelligence
