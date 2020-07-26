@@ -1,5 +1,5 @@
 ---
-title: "Transmission and the Environment: Power to the People: Primer on NEPA and Transmission Lines"
+title: "Power to the People: Primer on NEPA and Transmission Lines"
 date: 2013-05-01
 publishDate: 2020-07-24T22:58:58.328415Z
 authors: ["Adam Orford"]
