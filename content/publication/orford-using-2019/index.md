@@ -1,6 +1,6 @@
 ---
 title: "Using Public Datasets to Evaluate Atrazine Intensity and Birth Defects"
-date: 2019-01-01
+date: 2019-04-01
 publishDate: 2020-07-26T21:19:06.377990Z
 authors: ["Adam D. Orford"]
 publication_types: ["3"]
