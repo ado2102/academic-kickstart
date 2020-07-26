@@ -76,4 +76,4 @@ Adam Orford is a Ph.D. candidate at U.C. Berkeley's Energy & Resources Group (ER
 
 As an attorney prior to returning to academia, Adam represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. In law school, he served as the Editor-in-Chief of the Columbia Journal of Environmental Law. 
 
--[CV](https://www.adamorford.com/files/cv.pdf)
+-[C.V.](https://www.adamorford.com/files/cv.pdf)
