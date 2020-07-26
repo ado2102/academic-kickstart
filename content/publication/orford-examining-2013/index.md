@@ -1,5 +1,5 @@
 ---
-title: "Examining oil and gas policy in President Obama's second term"
+title: "Examining Oil and Gas Policy in President Obama's Second Term"
 date: 2013-01-01
 publishDate: 2020-07-24T22:58:58.330410Z
 authors: ["Adam Orford", "Dustin Till", "Daniel Timmons"]
