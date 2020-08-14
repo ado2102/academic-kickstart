@@ -31,7 +31,7 @@ education:
   - course: Ph.D., Energy & Resources
     institution: U.C. Berkeley Energy & Resources Group
     year: 2021
-  - course: MPP / M.A.
+  - course: M.P.P. / M.A.
     institution: U.C. Berkeley Goldman School of Public Policy and U.C. Berkeley Energy & Resources Group
     year: 2018
   - course: J.D.
