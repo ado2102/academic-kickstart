@@ -40,7 +40,7 @@ education:
   - course: Juris Doctor
     institution: Columbia University School of Law
     year: 2006
-  - course: B.A, Italian & Music
+  - course: B.A
     institution: Arizona State University
     year: 2002
 
