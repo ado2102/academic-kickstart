@@ -31,11 +31,8 @@ education:
   - course: Ph.D., Energy & Resources
     institution: U.C. Berkeley Energy & Resources Group
     year: 2021
-  - course: Master of Public Policy
-    institution: U.C. Berkeley Goldman School of Public Policy
-    year: 2018
-  - course: M.A., Energy & Resources
-    institution: U.C. Berkeley Energy & Resources Group
+  - course: MPP/MA
+    institution: U.C. Berkeley Goldman School of Public Policy and Energy & Resources Group
     year: 2018
   - course: Juris Doctor
     institution: Columbia University School of Law
