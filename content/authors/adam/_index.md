@@ -31,13 +31,13 @@ education:
   - course: Ph.D., Energy & Resources
     institution: U.C. Berkeley Energy & Resources Group
     year: 2021
-  - course: MPP/MA
-    institution: U.C. Berkeley Goldman School of Public Policy and Energy & Resources Group
+  - course: MPP / M.A.
+    institution: U.C. Berkeley Goldman School of Public Policy and U.C. Berkeley Energy & Resources Group
     year: 2018
-  - course: Juris Doctor
-    institution: Columbia University School of Law
+  - course: J.D.
+    institution: Columbia Law School
     year: 2006
-  - course: B.A
+  - course: B.A. (Italian)
     institution: Arizona State University
     year: 2002
 
