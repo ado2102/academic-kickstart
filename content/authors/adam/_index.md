@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Adam Orford is a Ph.D. candidate at U.C. Berkeley's Energy & Resources Group (ERG). He is currently focused on understanding the early development of conservative anti-environmental politics in the United States, including especially with respect to legislative developments during the 1940s, 1950s, and early 1960s. His dissertation is titled *The Creation of Enemies: Conservatives and the Environment in U.S. Society, 1940-1980*.
+Adam Orford is a Ph.D. candidate at U.C. Berkeley's Energy & Resources Group (ERG). He is currently focused on understanding the early development of conservative anti-environmental politics in the United States, including especially with respect to legislative developments during the 1940s, 1950s, and early 1960s. His dissertation is titled *The Creation of Enemies: Conservatives and the Environment in U.S. Society, 1940-1980*. His work blends law, policy, political and social theory, and history.
 
 As an attorney prior to returning to academia, Adam represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. In law school, he served as the Editor-in-Chief of the Columbia Journal of Environmental Law. 
