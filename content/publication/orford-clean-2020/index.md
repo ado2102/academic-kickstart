@@ -5,7 +5,7 @@ publishDate: 2020-11-18T17:19:03.013066Z
 authors: ["Adam Orford"]
 publication_types: ["3"]
 abstract: ""
-featured: false
-publication: ""
+featured: true
+publication: "Hastings Envtl. L. J. (accepted)"
 ---
 

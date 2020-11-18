@@ -5,8 +5,8 @@ publishDate: 2020-11-18T17:19:03.011080Z
 authors: ["Adam D. Orford"]
 publication_types: ["2"]
 abstract: "With climate change a present reality, governments are confronting the need to adapt their regulatory planning processes to withstand new and uncertain climate risks. This Article provides three new resources to support this essential work. First, it develops a new standard for assessing the quality of climate adaptation decisionmaking, focusing on defining the problem, quantifying adaptation benefits, and evaluating equitable distribution of risk. Second, it reviews California's climate adaptation policy development efforts between 1988 and 2018 - from the state's early efforts to study the problem, to later attempts at statewide strategic planning, until more recent work to integrate adaptation into existing regulatory processes - and applies the new assessment standard to illuminate many of the challenges that California has confronted. Third, the Article presents four case studies from California's electric power regulatory sector - electric grid reliability planning processes, wildfire risk mapping, coastal generator siting, and rate case risk costing - to demonstrate the difficulties inherent in incorporating climate-relevant data into complex technical proceedings in a transparent and consistent fashion."
-featured: false
-publication: "*Georgetown Environmental Law Review*"
+featured: true
+publication: "*Georgetown Envtl. L. Rev.*"
 url_pdf: "https://heinonline.org/HOL/P?h=hein.journals/gintenlr32&i=233"
 ---
 
