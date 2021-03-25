@@ -10,7 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate (now), Assistant Professor (soon)
+- role: 
+	PhD Candidate (now)
+	Assistant Professor (soon)
 
 # Organizations/Affiliations
 organizations:
