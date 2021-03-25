@@ -15,7 +15,7 @@ role: PhD Candidate (now), Assistant Professor (soon)
 # Organizations/Affiliations
 organizations:
 - name: |
-    Energy & Resources Group at the University of California, Berkeley
+    Energy & Resources Group at the University of California, Berkeley (now); University of Georgia School of Law (soon)
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD Candidate, U.C. Berkeley Energy & Resources Group
