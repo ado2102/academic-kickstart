@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Assistant Professor (soon)
+role: PhD Candidate (now)
 
 # Organizations/Affiliations
 organizations:
@@ -22,6 +23,7 @@ bio: PhD Candidate, U.C. Berkeley Energy & Resources Group
 
 interests:
 - Environmental Law and Policy
+- Renewable Energy Transitions
 - U.S. Political  History 
 - Environmental Regulation
 - Environmental Ethics
@@ -69,6 +71,8 @@ user_groups:
 - Visitors
 ---
 
+Adam Orford is thrilled to be an incoming assistant professor at the University of Georgia School of Law. He will be teaching courses on environmental law, climate change law, and renewable energy law and policy. More info to come soon!
 
-Adam Orford is a Ph.D. candidate at U.C. Berkeley's Energy & Resources Group (ERG). He is currently focused on understanding the early interaction between conservative and  environmental politics in the United States, including especially with respect to legislative developments during the 1940s, 1950s, and early 1960s. His dissertation is titled *The Creation of Enemies: Investigating Conservative Environmental Polarization, 1945-1981*. His work blends law, policy, political and social theory, and history.
-As an attorney prior to returning to academia, Adam represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. In law school, he served as the Editor-in-Chief of the Columbia Journal of Environmental Law. 
+Until May 2021, Adam will be fisnishing his Ph.D. at U.C. Berkeley's Energy & Resources Group (ERG). He is currently focused on understanding the early interaction between conservative and  environmental politics in the United States. His dissertation is titled *The Creation of Enemies: Investigating Conservative Environmental Polarization, 1945-1981*. His work blends law, policy, political and social theory, and history.
+
+As an attorney prior to returning to academia, Adam spent 10 years as an environmental litigator. He represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. In law school, he served as the Editor-in-Chief of the Columbia Journal of Environmental Law. 
