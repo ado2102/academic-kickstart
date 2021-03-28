@@ -1,5 +1,5 @@
 ---
-title: "The Clean Air Act of 1963: An Interdisciplinary Study"
+title: "The Clean Air Act of 1963: Postwar Environmental Politics and the Debate Over Federal Power"
 date: 2020-08-01
 publishDate: 2020-11-18T17:19:03.013066Z
 authors: ["Adam Orford"]
