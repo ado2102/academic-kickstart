@@ -3,7 +3,7 @@ title: "The Clean Air Act of 1963: Postwar Environmental Politics and the Debate
 date: 2021-04-22
 publishDate: 2021-04-22T17:19:03.013066Z
 authors: ["Adam Orford"]
-publication_types: ["2 "]
+publication_types: ["2"]
 featured: true
 publication: "in *Hastings Envtl. L. J.*"
 publication_short: "in *HELJ*"
