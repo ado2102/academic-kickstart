@@ -10,7 +10,7 @@ all_day: false
 #publishDate = 2017-01-01T00:00:00 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: ["Adam orford]
+authors: ["Adam Orford"]
 
 # Location of event.
 location: "Berkeley, California"
