@@ -7,33 +7,33 @@ date: 2021-04-28T16:00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate = 2017-01-01T00:00:00
+#publishDate = 2017-01-01T00:00:00 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Adam orford]
+authors: ["Adam orford]
 
 # Location of event.
-location = "Berkeley, California"
+location: "Berkeley, California"
 
 # Name of event and optional event URL.
-event = "ERG Colloquium"
+event: "ERG Colloquium"
 #event_url = "https://example.org"
 
 # Abstract. What's your talk about?
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam." 
 
 # Summary. An optional shortened abstract.
-summary = "Dissertation exit talk on historical development of conservative environmental polarization."
+summary: "Dissertation exit talk on historical development of conservative environmental polarization."
 
 # Is this a featured talk? (true/false)
-featured = true
+featured: true
 
 # Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags. 
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.  
 #tags = []
 
 # Markdown Slides (optional).
-#   Associate this talk with Markdown slides. 
+#   Associate this talk with Markdown slides.  
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`. 
@@ -52,7 +52,7 @@ featured = true
 #projects = ["internal-project"] 
 
 # Links (optional).
-#url_pdf = "" 
+#url_pdf = ""  
 url_video: "https://youtu.be/S3nChLCdyR8"
 #url_code = ""
 
