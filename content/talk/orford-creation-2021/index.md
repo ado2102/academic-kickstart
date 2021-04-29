@@ -61,10 +61,10 @@ url_video: "https://youtu.be/S3nChLCdyR8"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+#[image]
  # Caption (optional)
  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight 
-  focal_point: "Center"
+ # focal_point: "Center"
 ---
