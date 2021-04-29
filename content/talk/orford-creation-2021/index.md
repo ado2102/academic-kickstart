@@ -1,3 +1,4 @@
+---
 title: "Investigating Conservative Environmental Polarization"
 
 # Talk start and end times.
@@ -67,3 +68,4 @@ url_video: "https://youtu.be/S3nChLCdyR8"
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Right"
+---
