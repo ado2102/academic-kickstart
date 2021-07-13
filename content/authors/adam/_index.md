@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name:
-    University of Georgia School of Law
+    U. of Georgia School of Law
 
 
 # Short bio (displayed in user profile at end of posts)
