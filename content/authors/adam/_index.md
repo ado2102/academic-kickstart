@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name:
-    University of Georgia School of Law
+    U. of Georgia School of Law
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +72,6 @@ user_groups:
 ---
 Dr. Adam Orford is thrilled to be joining the faculty of the University of Georgia School of Law. He will be teaching courses on environmental law, climate change law, and renewable energy law and policy.
 
-Dr. Orford recently earned his Ph.D. at U.C. Berkeley's Energy & Resources Group. His dissertation - *The Creation of Enemies: Investigating Conservative Environmental Polarization, 1945-1981* - focused on understanding the historical relationships between conservative and environmental politics in the United States. His master's work (in public policy) analyzed (and criticized) how California has handled climate change in its electric power system planning and regulatory processes. 
+Dr. Orford recently earned his Ph.D. at U.C. Berkeley's Energy & Resources Group. His dissertation - *The Creation of Enemies: Investigating Conservative Environmental Polarization, 1945-1981* - focused on understanding the historical relationships between conservative and environmental politics in the United States. His master's work in public policy analyzed (and criticized) how California has handled climate change in its electric power system planning and regulatory processes. 
 
 Prior to returning to academia, Dr. Orford was an environmental litigator. He represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. In law school, he served as the Editor-in-Chief of the Columbia Journal of Environmental Law.

@@ -1,5 +1,5 @@
 ---
-title: "*Nation’s Business* and the Environment: the U.S. Chamber’s Changing Relationships with DDT, “Ecologists,” Regulations, and Renewable Energy"
+title: "Nation’s Business and the Environment: the U.S. Chamber’s Changing Relationships with DDT, “Ecologists,” Regulations, and Renewable Energy"
 date: 2021-05-13
 publishDate: 2020-05-13T00:00:00
 authors: ["Adam D. Orford"]
