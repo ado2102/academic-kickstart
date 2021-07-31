@@ -65,6 +65,6 @@ url_video: "https://youtu.be/cse8ar4Sm-M"
  # Caption (optional)
  # caption = ""
   # Focal point (optional)
- # focal_point: "Bottom"
+ # focal_point: "Center"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight 
 ---
