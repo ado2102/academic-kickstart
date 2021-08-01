@@ -1,7 +1,7 @@
 ---
 title: "Clean Air Act Section 115: Is the IPCC a 'Duly Constituted International Agency?'"
-date: 2021-08-01
-publishDate: 2022-01-01T00:00:00Z
+date: 2021-07-31
+publishDate: 2021-07-31T00:00:00Z
 authors: ["Adam Orford"]
 publication_types: ["2"]
 featured: true
