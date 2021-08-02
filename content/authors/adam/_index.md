@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Adam Orford
+title: Adam D. Orford
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name:
-    U. of Georgia School of Law
+    UGA School of Law
 
 
 # Short bio (displayed in user profile at end of posts)
