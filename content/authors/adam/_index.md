@@ -70,8 +70,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Dr. Adam D. Orford is thrilled to be joining the faculty of the University of Georgia School of Law. He will be teaching courses on environmental law, climate change law, and renewable energy law and policy.
+Adam Orford is an Assistant Professor at the University of Georgia School of Law. He teaches courses on environmental law, renewable energy law and policy, and climate change.
 
-Dr. Orford recently earned his Ph.D. at U.C. Berkeley's Energy & Resources Group. His dissertation - *The Creation of Enemies: Investigating Conservative Environmental Polarization, 1945-1981* - focused on understanding the historical relationships between conservative and environmental politics in the United States. His master's work in public policy analyzed (and criticized) how California has handled climate change in its electric power system planning and regulatory processes. 
+Adam earned his Ph.D. from U.C. Berkeley's Energy & Resources Group. His dissertation - *The Creation of Enemies: Investigating Conservative Environmental Polarization, 1945-1981* - focused on understanding the historical relationships between conservative and environmental politics in the United States. He received his Masters of Public Policy from U.C. Berkeley's Goldman School of Public Policy, where his work focused on energy policy and regulation. 
 
-Prior to returning to academia, Dr. Orford was an environmental litigator. He represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. In law school, he served as the Editor-in-Chief of the Columbia Journal of Environmental Law.
+Prior to returning to academia, Adam was an environmental litigator in private practice. He represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. In law school, he served as the Editor-in-Chief of the Columbia Journal of Environmental Law.
