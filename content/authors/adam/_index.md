@@ -70,7 +70,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Adam Orford is an Assistant Professor at the University of Georgia School of Law. He teaches courses on environmental law, renewable energy law and policy, and climate change.
+Adam Orford is an Assistant Professor at the University of Georgia School of Law. He teaches courses on environmental protection, renewable energy development, and climate change.
 
 Adam earned his Ph.D. from U.C. Berkeley's Energy & Resources Group. His dissertation - *The Creation of Enemies: Investigating Conservative Environmental Polarization, 1945-1981* - focused on understanding the historical relationships between conservative and environmental politics in the United States. He received his Masters of Public Policy from U.C. Berkeley's Goldman School of Public Policy, where his work focused on energy policy and regulation. 
 
