@@ -26,7 +26,6 @@ interests:
 - Renewable Energy Transitions
 - U.S. Political  History 
 - Environmental Regulation
-- Environmental Ethics
 
 education:
   courses:
@@ -70,10 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Adam Orford is an Assistant Professor at the University of Georgia School of Law. He teaches courses on environmental protection, renewable energy development, and climate change.
 
-As a scholar, Adam's work blends political history and environmental and energy law and policy. Much of his work has focused on understanding the historical development of the relationship between conservative and environmental politics in the United States. He also writes on current issues of energy, climate, and environmental law and policy.
+Dr. Adam D. Orford joined the University of Georgia School of Law in the fall of 2021. His interdisciplnary research investigates legal and policy approaches to environmental protection, human health and wellbeing, and deep decarbonization of the Uninted States economy. He also participates in grant-funded interdisciplinary research initiatives across UGA, including as the lead of the Georgia element of the National Zoning Atlas, and as a participant in ongoing investigations into the legal, political, environmental, and social dimensions of new energy manufacturing and emerging carbon removal technologies. His recent scholarship has appeared in the *Columbia Journal of Environmental Law*, the *Georgetown Environmental Law Review*, the *Hastings Environmental Law Journal*, and the *Journal of Environmental Studies and Sciences*. As an educator and mentor, Professor Orford passionately supports law student success and career development. 
 
-As an educator, Adam passionately supports graduate student success, and advocates for resources and programs to support historically marginalized and underrepresented student groups, including LGBTQ+, Black and Latino, indigenous, formerly incarcerated, disabled, and first-gen students.
-
-Adam earned his Ph.D. from U.C. Berkeley's Energy & Resources Group. He received his Masters of Public Policy from U.C. Berkeley's Goldman School of Public Policy, where his work focused on energy policy and regulation. Prior to returning to academia, Adam was an environmental litigator in private practice for eight years. He represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. In law school, he served as the Editor-in-Chief of the Columbia Journal of Environmental Law.
+Professor Orford earned his Ph.D. from U.C. Berkeley's Energy & Resources Group. He received his Masters of Public Policy from U.C. Berkeley's Goldman School of Public Policy, where his work focused on energy policy and regulation. Prior to returning to academia, Adam was an environmental litigator in private practice for eight years. He represented public and private clients in complex environmental civil litigation and regulatory matters; conducted both trial and appellate litigation in federal and state courts across the country; and assisted with the environmental review and compliance aspects of numerous corporate transactions. In law school, he served as the Editor-in-Chief of the *Columbia Journal of Environmental Law*.
