@@ -1,7 +1,7 @@
 ---
 title: "The Clean Air Act of 1963: Postwar Environmental Politics and the Debate Over Federal Power"
-date: 2021
-publishDate: 2021
+date: 2021-01-01
+publishDate: 2021-01-01
 authors: ["Adam Orford"]
 publication_types: ["2"]
 featured: true
