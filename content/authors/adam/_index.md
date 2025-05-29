@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name:
-    Fordham University School of Law
+    Fordham Law School
 
 
 # Short bio (displayed in user profile at end of posts)
