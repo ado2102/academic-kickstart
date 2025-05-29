@@ -1,5 +1,5 @@
 ---
-title: "Blue Carbon, Red States, and Paris Agreement Article 6"
+title: "Blue Carbon, Red States, & Paris Agreement Article 6"
 date: 2024-02-06
 publishDate: 2024-02-06T00:00:00
 authors: ["Adam D. Orford"]
