@@ -1,29 +1,29 @@
 ---
-title: "Interview with Commissioner Tim Echols on Energy Matters"
+title: "Climate Spending Impact"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-07-31T08:00:00
+date: 2025-03-21T08:00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate = 2021-07-31T00:00:00 
+#publishDate = 2025-03-21T00:00:00 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors: ["Adam Orford"]
 
 # Location of event.
-location: "Athens, Georgia"
+location: "New York, New York"
 
 # Name of event and optional event URL.
-event: "Energy Matters Podcast"
-#event_url = "https://example.org"
+event: "PELR-ATPI Conference"
+#event_url = 
 
 # Abstract. What's your talk about?
 #abstract =  
 
 # Summary. An optional shortened abstract.
-summary: "Interview on energy law topics upon arrival at UGA."
+summary: "Discussing article: Overselling BIL & IRA."
 
 # Is this a featured talk? (true/false)
 featured: true
