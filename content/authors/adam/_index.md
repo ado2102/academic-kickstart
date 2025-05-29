@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
 - name:
-    UGA School of Law
+    Fordham University School of Law
 
 
 # Short bio (displayed in user profile at end of posts)
