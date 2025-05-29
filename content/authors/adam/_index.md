@@ -22,7 +22,7 @@ organizations:
 bio: Environment, Energy, and Resources - UGA Law
 
 interests:
-- Environmental Law and Policy
+- Climate Law and Policy
 - Renewable Energy Transitions
 - U.S. Political  History 
 - Environmental Regulation
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Dr. Adam D. Orford joined the University of Georgia School of Law in the fall of 2021. His interdisciplinary research investigates legal and policy approaches to environmental protection, human health and wellbeing, and deep decarbonization of the United States economy. He also participates in collaborative research initiatives across UGA, including as the lead of the Georgia element of the National Zoning Atlas, and as a participant in ongoing investigations into the legal, political, environmental, and social dimensions of new energy manufacturing and emerging carbon removal technologies. His recent scholarship has appeared in the *Columbia Journal of Environmental Law*, the *Georgetown Environmental Law Review*, the *Hastings Environmental Law Journal*, and the *Journal of Environmental Studies and Sciences*. As an educator and mentor, Professor Orford passionately supports law student success and career development. 
+Dr. Adam D. Orford's interdisciplinary research focuses on deep decarbonization of the global industrial economy. He has examined regulatory approaches to climate emissions control, legal strategies to promote cleantech infrastructure investment, legal barriers to phasing out fossil fuel-fired electricity, legal frameworks for governing international carbon credit trading, legal options for promoting global renewable energy development, and legal impact assessment of energy and climate tax and spending programs. Orford was a member of the American Bar Association’s in-person delegation to the 29th Conference of Parties to the U.N. Framework Convention on Climate Change in Baku, Azerbaijan.
 
-Professor Orford earned his J.D. from Columbia Law School, his Ph.D. from U.C. Berkeley's Energy & Resources Group, and his Masters of Public Policy from U.C. Berkeley's Goldman School of Public Policy. Prior to returning to the academy, he was an environmental litigator in private practice, representing public and private clients in complex environmental civil litigation and regulatory matters. In law school, he served as the Editor-in-Chief of the *Columbia Journal of Environmental Law*.
+His recent scholarship has appeared or is forthcoming in *Ecology Law Quarterly*, the *Columbia Journal of Environmental Law*, the *Georgetown Environmental Law Review* and *Frontiers in Climate*. He regularly serves as a peer reviewer for climate policy journals. As an educator and mentor, he passionately supports law student success and career development. 
+
+Orford earned his J.D. from Columbia Law School, his Ph.D. from the University of California, Berkeley, Energy & Resources Group and his Master of Public Policy from the UC Berkeley Goldman School of Public Policy. Prior to returning to the academy, he was an environmental litigator in private practice, representing public and private clients in complex environmental civil litigation and regulatory matters. In law school, he served as the editor-in-chief of the *Columbia Journal of Environmental Law*.
